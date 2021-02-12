@@ -9,6 +9,6 @@ Add ChestReward.cs into your chest button, and set the time wait. for example : 
 
 ![](Assets/Images/ss2.png)
 
-then, dont forget to add a onclick function into your chest button.
+then, dont forget to add an onclick function into your chest button.
 
 GOOD LUCK!!!
